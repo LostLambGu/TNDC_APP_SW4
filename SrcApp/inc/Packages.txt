@@ -1,0 +1,4 @@
+ServerVersion=01.00.00.907
+ImageFileName=connected_tracker_qualcomm9x07_01.00.00.907_arm.ipk
+RedirectPKGURL=http://reports.connected-holdings.com:9090/connected/downloads/Arrow-L-FOTA/
+AutoReboot=0
